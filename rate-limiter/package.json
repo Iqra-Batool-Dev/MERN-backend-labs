@@ -1,0 +1,16 @@
+{
+  "name": "rate-limiter",
+  "version": "1.0.0",
+  "description": "a rate limiter using express to limts the client requests",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon app.js"
+  },
+  "author": "iqra batool",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
