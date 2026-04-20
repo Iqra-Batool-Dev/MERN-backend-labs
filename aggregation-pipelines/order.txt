@@ -1,0 +1,205 @@
+{
+    "statusCode": 200,
+    "message": "order created successfully",
+    "data": {
+        "orderNumber": "1002",
+        "status": "completed",
+        "product": [
+            {
+                "productName": "bagxbag",
+                "productQyt": 1,
+                "price": 1000,
+                "_id": "69dbc7f2b773f8e6da77f3c5"
+            }
+        ],
+        "_id": "69dbc7f2b773f8e6da77f3c4",
+        "createdAt": "2026-04-12T16:27:30.300Z",
+        "updatedAt": "2026-04-12T16:27:30.300Z",
+        "__v": 0
+    },
+    "success": true
+}
+
+{
+    "userId" : "69db8f1e679a00149478eb10",
+    "orderNumber": "1002",
+    "status": "completed",
+    "product": [
+        {
+            "productName" : "gucci bag",
+            "productQyt" : "2",
+            "price" : "4000"
+        },
+        {
+            "productName" : "golden clutch",
+            "productQyt" : "1",
+            "price" : "4000"
+        },
+        {
+            "productName" : "fabric purse",
+            "productQyt" : "1",
+            "price" : "4000"
+        }
+        
+    ]
+}
+{
+    "statusCode": 200,
+    "message": "order created successfully",
+    "data": {
+        "user": "69db8f1e679a00149478eb10",
+        "orderNumber": "1002",
+        "status": "pending",
+        "product": [
+            {
+                "productName": "school bag",
+                "productQyt": 1,
+                "price": 1500,
+                "_id": "69dd2a3f6750db2c096ac04a"
+            },
+            {
+                "productName": "notebooks",
+                "productQyt": 7,
+                "price": 200,
+                "_id": "69dd2a3f6750db2c096ac04b"
+            }
+        ],
+        "_id": "69dd2a3f6750db2c096ac049",
+        "createdAt": "2026-04-13T17:39:11.416Z",
+        "updatedAt": "2026-04-13T17:39:11.416Z",
+        "__v": 0
+    },
+    "success": true
+}
+{
+    "statusCode": 200,
+    "message": "order created successfully",
+    "data": {
+        "user": "69db8f1e679a00149478eb10",
+        "orderNumber": "1003",
+        "status": "cancelled",
+        "product": [
+            {
+                "productName": "school bag",
+                "productQyt": 2,
+                "price": 1500,
+                "_id": "69dd2abb6750db2c096ac04d"
+            },
+            {
+                "productName": "luchbox",
+                "productQyt": 1,
+                "price": 1000,
+                "_id": "69dd2abb6750db2c096ac04e"
+            }
+        ],
+        "_id": "69dd2abb6750db2c096ac04c",
+        "createdAt": "2026-04-13T17:41:15.434Z",
+        "updatedAt": "2026-04-13T17:41:15.434Z",
+        "__v": 0
+    },
+    "success": true
+}
+{
+    "statusCode": 200,
+    "message": "order created successfully",
+    "data": {
+        "user": "69db8f1e679a00149478eb10",
+        "orderNumber": "1004",
+        "status": "completed",
+        "product": [
+            {
+                "productName": "headphones",
+                "productQyt": 1,
+                "price": 2000,
+                "_id": "69dd2b696750db2c096ac050"
+            },
+            {
+                "productName": "water bottle",
+                "productQyt": 2,
+                "price": 800,
+                "_id": "69dd2b696750db2c096ac051"
+            },
+            {
+                "productName": "pencil box",
+                "productQyt": 1,
+                "price": 950,
+                "_id": "69dd2b696750db2c096ac052"
+            }
+        ],
+        "_id": "69dd2b696750db2c096ac04f",
+        "createdAt": "2026-04-13T17:44:09.018Z",
+        "updatedAt": "2026-04-13T17:44:09.018Z",
+        "__v": 0
+    },
+    "success": true
+}
+
+{
+    "statusCode": 200,
+    "message": "order created successfully",
+    "data": {
+        "user": "69db8f1e679a00149478eb10",
+        "orderNumber": "1005",
+        "status": "completed",
+        "product": [
+            {
+                "productName": "bagxbag",
+                "productQyt": 1,
+                "price": 2500,
+                "_id": "69dd2bdb6750db2c096ac054"
+            },
+            {
+                "productName": "sandals",
+                "productQyt": 1,
+                "price": 3000,
+                "_id": "69dd2bdb6750db2c096ac055"
+            }
+        ],
+        "_id": "69dd2bdb6750db2c096ac053",
+        "createdAt": "2026-04-13T17:46:03.851Z",
+        "updatedAt": "2026-04-13T17:46:03.851Z",
+        "__v": 0
+    },
+    "success": true
+}
+
+{
+    "statusCode": 200,
+    "message": "order created successfully",
+    "data": {
+        "user": "69db8f1e679a00149478eb10",
+        "orderNumber": "1006",
+        "status": "completed",
+        "product": [
+            {
+                "productName": "headphones",
+                "productQyt": 1,
+                "price": 2000,
+                "_id": "69dd2ccb6750db2c096ac057"
+            },
+            {
+                "productName": "book shelf",
+                "productQyt": 1,
+                "price": 3300,
+                "_id": "69dd2ccb6750db2c096ac058"
+            },
+            {
+                "productName": "utensils",
+                "productQyt": 1,
+                "price": 1800,
+                "_id": "69dd2ccb6750db2c096ac059"
+            },
+            {
+                "productName": "shirts",
+                "productQyt": 3,
+                "price": 900,
+                "_id": "69dd2ccb6750db2c096ac05a"
+            }
+        ],
+        "_id": "69dd2ccb6750db2c096ac056",
+        "createdAt": "2026-04-13T17:50:03.713Z",
+        "updatedAt": "2026-04-13T17:50:03.713Z",
+        "__v": 0
+    },
+    "success": true
+}

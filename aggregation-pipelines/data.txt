@@ -1,0 +1,17 @@
+{
+    "statusCode": 200,
+    "message": {
+        "username": "Iqra Batool",
+        "email": "iqrabatool@gmail.com",
+        "password": "iqra",
+        "_id": "69db8f1e679a00149478eb10",
+        "createdAt": "2026-04-12T12:25:02.987Z",
+        "updatedAt": "2026-04-12T12:25:02.987Z",
+        "__v": 0
+    },
+    "data": "user created successfully",
+    "success": true
+}
+
+
+
